@@ -2,7 +2,7 @@
 
 - Creation date: 07-09-2018 创建日期 2018-07-09
 
-- This is a simple email system desktop application based on C# 这是一个基于C#的简单邮件系统桌面应用
+- This is a simple email system desktop application based on C# and network 这是一个基于C#及网络的简单邮件系统桌面应用
     - Main Function 主要功能
         - User logs in 用户登录
         - Edit settings 修改设置
@@ -11,7 +11,7 @@
         - Send email 发送邮件
         - Delete email 删除邮件
 
-- Support protocol 支持协议
+- Supporting protocol 支持协议
     - POP3
     - SMTP
 
